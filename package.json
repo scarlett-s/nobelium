@@ -58,4 +58,7 @@
       "notion-utils@6.16.0": "patches/notion-utils@6.16.0.patch"
     }
   }
+  "engines": {
+    "node": "18.x"
+  }
 }
