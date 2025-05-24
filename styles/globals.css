@@ -164,10 +164,6 @@ nav {
   @apply pointer-events-none;
 }
 
-.site-title {
-  color: #A62C2C; /* 将此处的颜色值替换为您想要的颜色 */
-}
-
 .post-title {
   color: #A62C2C; /* 将此处的颜色值替换为您想要的颜色 */
 }
