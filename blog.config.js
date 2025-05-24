@@ -2,7 +2,7 @@ const BLOG = {
   title: 'NoFrames',
   author: 'Scarlett',
   email: 'scarlett.shu@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://noframes.top',
   description: 'Recording my life.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
@@ -51,7 +51,7 @@ const BLOG = {
       repo: ''
     },
     cusdisConfig: {
-      appId: '', // data-app-id
+      appId: 'f4dbe9b3-b73b-49d4-a83b-43b14f669151', // data-app-id
       host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
       scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
     }
